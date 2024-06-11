@@ -1,2 +1,5 @@
 
-sample.xlsx
+*.txt
+*.xlsx
+*.pptx
+*.docx
